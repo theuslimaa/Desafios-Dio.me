@@ -1,0 +1,14 @@
+c:\Users\noutz\OneDrive\Documentos\Rumo ao Sênior\Aprendendo\Curso C#\Teste Projeto\Teste Projeto P\bin\Debug\net8.0\Teste Projeto P.exe
+c:\Users\noutz\OneDrive\Documentos\Rumo ao Sênior\Aprendendo\Curso C#\Teste Projeto\Teste Projeto P\bin\Debug\net8.0\Teste Projeto P.deps.json
+c:\Users\noutz\OneDrive\Documentos\Rumo ao Sênior\Aprendendo\Curso C#\Teste Projeto\Teste Projeto P\bin\Debug\net8.0\Teste Projeto P.runtimeconfig.json
+c:\Users\noutz\OneDrive\Documentos\Rumo ao Sênior\Aprendendo\Curso C#\Teste Projeto\Teste Projeto P\bin\Debug\net8.0\Teste Projeto P.dll
+c:\Users\noutz\OneDrive\Documentos\Rumo ao Sênior\Aprendendo\Curso C#\Teste Projeto\Teste Projeto P\bin\Debug\net8.0\Teste Projeto P.pdb
+c:\Users\noutz\OneDrive\Documentos\Rumo ao Sênior\Aprendendo\Curso C#\Teste Projeto\Teste Projeto P\obj\Debug\net8.0\Teste Projeto P.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\noutz\OneDrive\Documentos\Rumo ao Sênior\Aprendendo\Curso C#\Teste Projeto\Teste Projeto P\obj\Debug\net8.0\Teste Projeto P.AssemblyInfoInputs.cache
+c:\Users\noutz\OneDrive\Documentos\Rumo ao Sênior\Aprendendo\Curso C#\Teste Projeto\Teste Projeto P\obj\Debug\net8.0\Teste Projeto P.AssemblyInfo.cs
+c:\Users\noutz\OneDrive\Documentos\Rumo ao Sênior\Aprendendo\Curso C#\Teste Projeto\Teste Projeto P\obj\Debug\net8.0\Teste Projeto P.csproj.CoreCompileInputs.cache
+c:\Users\noutz\OneDrive\Documentos\Rumo ao Sênior\Aprendendo\Curso C#\Teste Projeto\Teste Projeto P\obj\Debug\net8.0\Teste Projeto P.dll
+c:\Users\noutz\OneDrive\Documentos\Rumo ao Sênior\Aprendendo\Curso C#\Teste Projeto\Teste Projeto P\obj\Debug\net8.0\refint\Teste Projeto P.dll
+c:\Users\noutz\OneDrive\Documentos\Rumo ao Sênior\Aprendendo\Curso C#\Teste Projeto\Teste Projeto P\obj\Debug\net8.0\Teste Projeto P.pdb
+c:\Users\noutz\OneDrive\Documentos\Rumo ao Sênior\Aprendendo\Curso C#\Teste Projeto\Teste Projeto P\obj\Debug\net8.0\Teste Projeto P.genruntimeconfig.cache
+c:\Users\noutz\OneDrive\Documentos\Rumo ao Sênior\Aprendendo\Curso C#\Teste Projeto\Teste Projeto P\obj\Debug\net8.0\ref\Teste Projeto P.dll
