@@ -58,7 +58,7 @@ class Estacionamento
                     if (veiculosNoPatio.Any(y => y.ToUpper() == placaCarro.ToUpper()))
                     {
                         Console.WriteLine("Digite a quantidade de horas que o veículo permaneceu estacionado:");
-                        int tempo = Console.Read();
+                        int tempo = Convert.ToInt32(Console.ReadLine());
 
                         decimal valorPago = pi + ph * tempo;
 
