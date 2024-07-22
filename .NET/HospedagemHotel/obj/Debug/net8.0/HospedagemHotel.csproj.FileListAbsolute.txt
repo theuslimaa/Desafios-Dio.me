@@ -1,0 +1,15 @@
+C:\Users\noutz\OneDrive\Documentos\T.I\Projetos\Desafios-Dio.me\.NET\HospedagemHotel\obj\Debug\net8.0\HospedagemHotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noutz\OneDrive\Documentos\T.I\Projetos\Desafios-Dio.me\.NET\HospedagemHotel\obj\Debug\net8.0\HospedagemHotel.AssemblyInfoInputs.cache
+C:\Users\noutz\OneDrive\Documentos\T.I\Projetos\Desafios-Dio.me\.NET\HospedagemHotel\obj\Debug\net8.0\HospedagemHotel.AssemblyInfo.cs
+C:\Users\noutz\OneDrive\Documentos\T.I\Projetos\Desafios-Dio.me\.NET\HospedagemHotel\obj\Debug\net8.0\HospedagemHotel.csproj.CoreCompileInputs.cache
+C:\Users\noutz\OneDrive\Documentos\T.I\Projetos\Desafios-Dio.me\.NET\HospedagemHotel\obj\Debug\net8.0\HospedagemHotel.sourcelink.json
+C:\Users\noutz\OneDrive\Documentos\T.I\Projetos\Desafios-Dio.me\.NET\HospedagemHotel\bin\Debug\net8.0\HospedagemHotel.exe
+C:\Users\noutz\OneDrive\Documentos\T.I\Projetos\Desafios-Dio.me\.NET\HospedagemHotel\bin\Debug\net8.0\HospedagemHotel.deps.json
+C:\Users\noutz\OneDrive\Documentos\T.I\Projetos\Desafios-Dio.me\.NET\HospedagemHotel\bin\Debug\net8.0\HospedagemHotel.runtimeconfig.json
+C:\Users\noutz\OneDrive\Documentos\T.I\Projetos\Desafios-Dio.me\.NET\HospedagemHotel\bin\Debug\net8.0\HospedagemHotel.dll
+C:\Users\noutz\OneDrive\Documentos\T.I\Projetos\Desafios-Dio.me\.NET\HospedagemHotel\bin\Debug\net8.0\HospedagemHotel.pdb
+C:\Users\noutz\OneDrive\Documentos\T.I\Projetos\Desafios-Dio.me\.NET\HospedagemHotel\obj\Debug\net8.0\HospedagemHotel.dll
+C:\Users\noutz\OneDrive\Documentos\T.I\Projetos\Desafios-Dio.me\.NET\HospedagemHotel\obj\Debug\net8.0\refint\HospedagemHotel.dll
+C:\Users\noutz\OneDrive\Documentos\T.I\Projetos\Desafios-Dio.me\.NET\HospedagemHotel\obj\Debug\net8.0\HospedagemHotel.pdb
+C:\Users\noutz\OneDrive\Documentos\T.I\Projetos\Desafios-Dio.me\.NET\HospedagemHotel\obj\Debug\net8.0\HospedagemHotel.genruntimeconfig.cache
+C:\Users\noutz\OneDrive\Documentos\T.I\Projetos\Desafios-Dio.me\.NET\HospedagemHotel\obj\Debug\net8.0\ref\HospedagemHotel.dll
