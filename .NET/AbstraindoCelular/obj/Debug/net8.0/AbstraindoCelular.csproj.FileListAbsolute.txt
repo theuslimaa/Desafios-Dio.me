@@ -1,0 +1,15 @@
+C:\Users\noutz\OneDrive\Documentos\T.I\Projetos\Desafios-Dio.me\.NET\AbstraindoCelular\bin\Debug\net8.0\AbstraindoCelular.exe
+C:\Users\noutz\OneDrive\Documentos\T.I\Projetos\Desafios-Dio.me\.NET\AbstraindoCelular\bin\Debug\net8.0\AbstraindoCelular.deps.json
+C:\Users\noutz\OneDrive\Documentos\T.I\Projetos\Desafios-Dio.me\.NET\AbstraindoCelular\bin\Debug\net8.0\AbstraindoCelular.runtimeconfig.json
+C:\Users\noutz\OneDrive\Documentos\T.I\Projetos\Desafios-Dio.me\.NET\AbstraindoCelular\bin\Debug\net8.0\AbstraindoCelular.dll
+C:\Users\noutz\OneDrive\Documentos\T.I\Projetos\Desafios-Dio.me\.NET\AbstraindoCelular\bin\Debug\net8.0\AbstraindoCelular.pdb
+C:\Users\noutz\OneDrive\Documentos\T.I\Projetos\Desafios-Dio.me\.NET\AbstraindoCelular\obj\Debug\net8.0\AbstraindoCelular.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noutz\OneDrive\Documentos\T.I\Projetos\Desafios-Dio.me\.NET\AbstraindoCelular\obj\Debug\net8.0\AbstraindoCelular.AssemblyInfoInputs.cache
+C:\Users\noutz\OneDrive\Documentos\T.I\Projetos\Desafios-Dio.me\.NET\AbstraindoCelular\obj\Debug\net8.0\AbstraindoCelular.AssemblyInfo.cs
+C:\Users\noutz\OneDrive\Documentos\T.I\Projetos\Desafios-Dio.me\.NET\AbstraindoCelular\obj\Debug\net8.0\AbstraindoCelular.csproj.CoreCompileInputs.cache
+C:\Users\noutz\OneDrive\Documentos\T.I\Projetos\Desafios-Dio.me\.NET\AbstraindoCelular\obj\Debug\net8.0\AbstraindoCelular.sourcelink.json
+C:\Users\noutz\OneDrive\Documentos\T.I\Projetos\Desafios-Dio.me\.NET\AbstraindoCelular\obj\Debug\net8.0\AbstraindoCelular.dll
+C:\Users\noutz\OneDrive\Documentos\T.I\Projetos\Desafios-Dio.me\.NET\AbstraindoCelular\obj\Debug\net8.0\refint\AbstraindoCelular.dll
+C:\Users\noutz\OneDrive\Documentos\T.I\Projetos\Desafios-Dio.me\.NET\AbstraindoCelular\obj\Debug\net8.0\AbstraindoCelular.pdb
+C:\Users\noutz\OneDrive\Documentos\T.I\Projetos\Desafios-Dio.me\.NET\AbstraindoCelular\obj\Debug\net8.0\AbstraindoCelular.genruntimeconfig.cache
+C:\Users\noutz\OneDrive\Documentos\T.I\Projetos\Desafios-Dio.me\.NET\AbstraindoCelular\obj\Debug\net8.0\ref\AbstraindoCelular.dll
