@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\noutz\\OneDrive\\Documentos\\Rumo ao Sênior\\Aprendendo\\Curso C#\\Teste Projeto\\Teste Projeto P\\Teste Projeto P.csproj": {}
+    "C:\\Users\\noutz\\OneDrive\\Documentos\\T.I\\Projetos\\Desafios-Dio.me\\.NET\\Estacionamento\\Teste Projeto P.csproj": {}
   },
   "projects": {
-    "C:\\Users\\noutz\\OneDrive\\Documentos\\Rumo ao Sênior\\Aprendendo\\Curso C#\\Teste Projeto\\Teste Projeto P\\Teste Projeto P.csproj": {
+    "C:\\Users\\noutz\\OneDrive\\Documentos\\T.I\\Projetos\\Desafios-Dio.me\\.NET\\Estacionamento\\Teste Projeto P.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\noutz\\OneDrive\\Documentos\\Rumo ao Sênior\\Aprendendo\\Curso C#\\Teste Projeto\\Teste Projeto P\\Teste Projeto P.csproj",
+        "projectUniqueName": "C:\\Users\\noutz\\OneDrive\\Documentos\\T.I\\Projetos\\Desafios-Dio.me\\.NET\\Estacionamento\\Teste Projeto P.csproj",
         "projectName": "Teste Projeto P",
-        "projectPath": "C:\\Users\\noutz\\OneDrive\\Documentos\\Rumo ao Sênior\\Aprendendo\\Curso C#\\Teste Projeto\\Teste Projeto P\\Teste Projeto P.csproj",
+        "projectPath": "C:\\Users\\noutz\\OneDrive\\Documentos\\T.I\\Projetos\\Desafios-Dio.me\\.NET\\Estacionamento\\Teste Projeto P.csproj",
         "packagesPath": "C:\\Users\\noutz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\noutz\\OneDrive\\Documentos\\Rumo ao Sênior\\Aprendendo\\Curso C#\\Teste Projeto\\Teste Projeto P\\obj\\",
+        "outputPath": "C:\\Users\\noutz\\OneDrive\\Documentos\\T.I\\Projetos\\Desafios-Dio.me\\.NET\\Estacionamento\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\noutz\\AppData\\Roaming\\NuGet\\NuGet.Config"
