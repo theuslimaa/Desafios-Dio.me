@@ -73,14 +73,14 @@ const player1 = {
         totalTestSkill2 = diceResult2 + character2.VELOCIDADE;  // Soma dado + velocidade para Luigi
   
         // Exibe os resultados da rolagem para ambos os jogadores
-        await logRollResult(
+        await rollResult(
           character1.NOME,
           "velocidade",
           diceResult1,
           character1.VELOCIDADE
         );
   
-        await logRollResult(
+        await rollResult(
           character2.NOME,
           "velocidade",
           diceResult2,
