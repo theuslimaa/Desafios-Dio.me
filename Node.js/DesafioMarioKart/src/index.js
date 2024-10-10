@@ -7,7 +7,6 @@ const player1 = {
     PONTOS: 0               // Pontuação inicial
   };
   
-  
   const player2 = {
     NOME: "Bowser",      
     VELOCIDADE: 5,         
